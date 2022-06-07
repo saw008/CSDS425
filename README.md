@@ -1,6 +1,3 @@
-# CSDS425  
-Project files of lecture CSDS425 @ CWRU  
-The lecturer was Misha.  
-Contact info: hxl1033@case.edu  
-  
-Please do NOT just copy and paste. Good luck!
+This project is an implementation of the simplified HTTP 1.1 server using Java, operations were tested using a standard browser. 
+
+Author: hxl1033@case.edu
